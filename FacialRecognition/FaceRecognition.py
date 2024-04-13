@@ -36,4 +36,6 @@ while True:
 video_capture.release()
 cv2.destroyAllWindows()
 
+#press "q" to quit 
+
 
